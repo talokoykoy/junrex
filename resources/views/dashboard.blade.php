@@ -48,6 +48,7 @@
 								<h4 class="card-title mb-3">$12,628</h4>
 								<small class="text-success fw-medium"><i class="bx bx-up-arrow-alt"></i> +72.80%</small>
 							</div>
+							
 						</div>
 					</div>
 					<div class="col-lg-6 col-md-12 col-6 mb-6">

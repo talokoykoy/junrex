@@ -11,7 +11,7 @@
 		<div class="navbar-nav align-items-center">
 			
 			<div class="nav-item d-flex align-items-center">
-				Contact Management Information System
+				Welcome to Junrex Project
 			</div>
 		</div>
 
